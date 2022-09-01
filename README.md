@@ -5,8 +5,6 @@ maybe zastix shouldnt trust random people with his code? getting skidded from 10
 
 change "username" and "password" to the bot's username and password, run with a vpn as you should always do with xotic-powered websites.
 
-alligatorbruh is most likely d13.
-
 update from zastix:
 ![get a better internet connection](https://i.imgur.com/gEUT2Kk.png)
 
