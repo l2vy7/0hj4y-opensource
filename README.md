@@ -1,5 +1,5 @@
 # 0hj4y-opensource
-@Alligatorbruh \([Betastar](https://betastar.org/api/user?name=Alligatorbruh)\) (Preston C. Godfrey, 12 (or Jake C. Godfrey, 15???)) is a huge skidder + nn and decided to skid 0hjay commands into his Betastar bot DESPITE betastarbot (zastix's bot) already having them ported, so im releasing 0hjay publicly.   
+@Alligatorbruh \([Betastar](https://betastar.org/api/user?name=Alligatorbruh)\) is a huge skidder + nn and decided to skid 0hjay commands into his Betastar bot DESPITE betastarbot (zastix's bot) already having them ported, so im releasing 0hjay publicly.   
 poor skid (afaik) does not know how to patch betastar.js so msg.send works 🤕 (you can easily use client.sendMessage instead psst psst)
 maybe zastix shouldnt trust random people with his code? getting skidded from 101.
 
