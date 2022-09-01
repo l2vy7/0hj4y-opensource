@@ -9,3 +9,5 @@ alligatorbruh is most likely d13.
 
 update from zastix:
 ![get a better internet connection](https://i.imgur.com/gEUT2Kk.png)
+
+he did get betastarbot mod however.
