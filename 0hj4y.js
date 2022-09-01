@@ -11,18 +11,9 @@ global.msgs = [];
 let client = new betastar("username", "password");
 
 var perms = {
-  tmflsh: 3,
-  blacklisted_acc4: 3,
-  blacklisted_acc3: 3,
-  evildude101: 3,
-  Villains: 2,
-  zastixV2: 2,
-  zastix: 2,
-  Alligatorbruh: 2,
-  qaiik: 2,
-  Xotic: 0,
-  Doxy: 0,
-  Ankha: 0,
+  // level 0 gets no perms (soon)
+  // level 2 is admin
+  // level 3 is owner
 };
 
 var prefix = "!";
